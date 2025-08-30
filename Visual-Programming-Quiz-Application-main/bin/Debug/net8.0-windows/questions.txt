@@ -1,4 +1,0 @@
-Which keyword declares a constant in C#?|let|const|readonly|var|2
-Which collection preserves insertion order and allows duplicates?|HashSet<T>|Dictionary<TKey,TValue>|List<T>|SortedSet<T>|2
-What does WinForms stand for?|Windows Formatting System|Windows Forms|Windows Framework Services|Windows Function Set|1
-Which event fires when a Button is clicked?|Changed|Pressed|Click|Invoked|2
