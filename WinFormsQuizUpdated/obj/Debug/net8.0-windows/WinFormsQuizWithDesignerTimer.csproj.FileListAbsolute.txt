@@ -1,0 +1,16 @@
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\bin\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.exe
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\bin\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.deps.json
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\bin\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.runtimeconfig.json
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\bin\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.dll
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\bin\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.pdb
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\obj\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.Form1.resources
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\obj\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.csproj.GenerateResource.cache
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\obj\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\obj\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.AssemblyInfoInputs.cache
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\obj\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.AssemblyInfo.cs
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\obj\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.csproj.CoreCompileInputs.cache
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\obj\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.dll
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\obj\Debug\net8.0-windows\refint\WinFormsQuizWithDesignerTimer.dll
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\obj\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.pdb
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\obj\Debug\net8.0-windows\WinFormsQuizWithDesignerTimer.genruntimeconfig.cache
+C:\Users\alihe\Downloads\WinFormsQuizWithDesignerTimer\WinFormsQuizWithDesignerTimer\obj\Debug\net8.0-windows\ref\WinFormsQuizWithDesignerTimer.dll
